@@ -1,0 +1,11 @@
+{
+    "presets": ["env"],
+    "env": {
+      "test": {
+        "plugins": [ "istanbul" ]
+      }
+    },
+    "sourceMaps": true,
+    "retainLines": true
+  }
+  

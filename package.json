@@ -1,0 +1,23 @@
+{
+  "name": "devery-erc726-transfer-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@devery/devery": "^0.1.59",
+    "babel-cli": "^6.22.2",
+    "babel-core": "^6.22.1",
+    "babel-eslint": "^8.2.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-istanbul": "^4.1.6",
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-preset-env": "^1.1.8",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.22.0",
+    "ethers": "^4.0.47",
+    "web3": "^1.2.8"
+  }
+}
